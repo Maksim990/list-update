@@ -3,7 +3,7 @@
         "repository": "Panel",
         "version": "1.0.0",
         "old_version": "not found",
-        "url_repository": ""
+        "url_repository": "https://github.com/Maksim990/Panel"
     },
     "https_server":{
         "repository": "https-server",
